@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biodata</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header Section -->
+    <div class="header">
+      <div class="browser-bar">
+        <div class="circle white"></div>
+        <div class="circle chocholate"></div>
+        <div class="circle blue"></div>
+      </div>
+      <h2>Biodata Faiz</h2>
+    </div>
+    
+    <!-- Profile Section -->
+    <div class="profile">
+      <div class="profile-photo">
+      </div>
+      <h1>Mohammad faiz faturrohman </h1>
+      <div class="status">Karyawan</div>
+    </div>
+    
+    <!-- Left Column -->
+    <div class="left-column">
+      <div class="section">
+        <h3>PENGALAMAN ORGANISASI</h3>
+        <ul>
+          <li>
+            <span>2018-2020</span>
+            <strong>PBH(PEMUDA BEUKI HEES)</strong><br>
+            Humas
+          </li>
+          <li>
+            <span>2023-2024</span>
+            <strong>English Course</strong><br>
+            Online Marketing Manager Bisnis Project
+          </li>
+        </ul>
+      </div>
+      
+      <div class="section">
+        <h3>RIWAYAT PENDIDIKAN</h3>
+        <ul>
+          <li>
+            <span>2017-2019</span>
+            <strong>SMP PLUS ALBURDAH</strong><br>
+          <li>
+            <span>2019-2022</span>
+            <strong>Ponpes alhidayah</strong><br>
+          </li>
+          <li>
+            <span>2022-2024</span>
+            <strong>Ponpes kalapadua</strong><br>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Right Column -->
+    <div class="right-column">
+      <div class="section about">
+        <h3>TENTANG SAYA</h3>
+        <p>Saya adalah seorang pemuda loba kahayang tapi beuki sare.</p>
+      </div>
+      
+      <div class="section skills">
+        <h3>KEMAMPUAN</h3>
+        <div class="skill">
+          <span>Tidur</span>
+          <div class="progress-bar"><div style="width: 60%;"></div></div>
+        </div>
+      </div>
+      
+      <div class="section contact">
+        <h3>KONTAK</h3>
+        <p>📞 +62-8579-5711-218</p>
+        <p>✉ uchihaenda@gmail.com</p>
+        <p>🏠 JL.Sitimunigar No.42</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
